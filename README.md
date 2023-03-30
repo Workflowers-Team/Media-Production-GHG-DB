@@ -11,7 +11,7 @@ Modelizations come from typical technical setups used in the media production en
 
 This database is used by various "carbon calculators"
 
-The database is available through CSV (actually TSV) format
+The database is available through CSV (actually TSV [Tabulation Separated Values]) format
 
 You can access it through the links here :
 * [CSV](./Media_FE_list.csv)
