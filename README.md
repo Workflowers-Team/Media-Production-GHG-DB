@@ -15,3 +15,5 @@ The database is available through CSV (actually TSV [Tabulation Separated Values
 
 You can access it through the links here :
 * [CSV](./Media_FE_list.csv)
+
+Theis database is licensed under Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
